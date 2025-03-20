@@ -11,4 +11,4 @@ The initial datasets were obtained through a link provided by the [Google Data A
 
 For updated and additional analysis, datasets were accessed from a publicly available Kaggle dataset provided by user Harsh Jhunjhunwala in his notebook titled "Google Capstone Project - Cyclist," and directly from Divvy's trip data hosted at https://divvy-tripdata.s3.amazonaws.com/index.html. This direct access allows real-time data usage and ensures that the analysis incorporates the most current data available.
 
-This analysis includes a data journal and a presentation (.pptx) as part of my final project for the **Google Data Analytics Specialization**.
+This analysis includes a data journal and a presentation (.pptx) available to stakeholders through [Google Drive](https://docs.google.com/presentation/d/1b3vj8wRtINjDBAGxVr9W2rLN4T_bVlAD/edit?usp=sharing&ouid=106176348866884016617&rtpof=true&sd=true) as part of my final project for the **Google Data Analytics Specialization**.
