@@ -9,7 +9,7 @@ Project examined bicycle usage, pinpointing trends to transition casual riders t
 
 ### Solution
 
-The study scrutinized bicycle usage data, uncovering key variances in ride durations and peak usage between casual riders and members. Observations spurred targeted initiatives like promotional incentives and station upgrades, designed to shift casual riders to members, thus boosting profitability and achieving Cyclistic's business aims.
+The project focused on data preparation and analysis, notably data cleaning, in R. I standardized column names, addressed missing values, and removed duplicates to ensure data integrity. Detailed documentation of each step was maintained. Insights were shared on Kaggle and GitHub, supporting strategic decisions, although marketing strategy development was outside my scope.
 
 ### Approach
 
