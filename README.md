@@ -9,7 +9,7 @@ Project examined bicycle usage, pinpointing trends to transition casual riders t
 
 ### Solution
 
-The project focused on data preparation and analysis, notably data cleaning, in R. I standardized column names, addressed missing values, and removed duplicates to ensure data integrity. Detailed documentation of each step was maintained. Insights were shared on Kaggle and GitHub, supporting strategic decisions, although marketing strategy development was outside my scope.
+The project focused on data preparation and analysis, notably data cleaning, in R. I standardized column names, addressed missing values, and removed duplicates to ensure data integrity. Detailed documentation of each step was maintained. Analysis followed. Insights were shared on Kaggle and GitHub, supporting strategic decisions, although marketing strategy development was outside my scope.
 
 ### Approach
 
